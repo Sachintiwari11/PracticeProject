@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Enter your first number!");
 }
